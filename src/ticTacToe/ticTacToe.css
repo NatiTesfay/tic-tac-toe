@@ -13,6 +13,8 @@ table td {
 	width: 200px;
 	height: 200px;
 	background-color: black;
+	border-radius: 15px;
+
 }
 table tr {
 	color: white;
