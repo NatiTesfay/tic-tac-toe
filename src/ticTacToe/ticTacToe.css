@@ -1,0 +1,20 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	font-size: larger;
+	font-weight: 500;
+}
+
+table td {
+	border: 1px solid grey;
+	width: 200px;
+	height: 200px;
+	background-color: black;
+}
+table tr {
+	color: white;
+}
+
